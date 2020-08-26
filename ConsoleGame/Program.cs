@@ -324,6 +324,7 @@ namespace ConsoleGame
                     Console.WriteLine("exit : Exit out of the os");
                     Console.WriteLine("debug.exe : A debug command that you're probably not supposed to see");
                     Console.WriteLine("virus_ransomware.exe : A ransomware, only use this on other pcs!");
+                    Console.WriteLine("virus_bootcorrupt.exe : A boot corruptor, only use this on other pcs!");
                 }
                 else if (command == "easter_egg.exe")
                 {
